@@ -1,0 +1,35 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl bodytextabby
+Ns 94.117644
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\satur\\Documents\\GitHub\\VoxxiesBoxieofPac\\Content\\Sol\\Set 1\\Slime Rancher Stuff\\Slimes\\tabby\\bodytextabby.png
+
+newmtl bodytextabby2
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\satur\\Documents\\GitHub\\VoxxiesBoxieofPac\\Content\\Sol\\Set 1\\Slime Rancher Stuff\\Slimes\\tabby\\bodytextabby2.png
+
+newmtl facetextabby
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\satur\\Documents\\GitHub\\VoxxiesBoxieofPac\\Content\\Sol\\Set 1\\Slime Rancher Stuff\\Slimes\\tabby\\facetextabby1.png
